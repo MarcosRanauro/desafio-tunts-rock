@@ -1,5 +1,6 @@
 import React from 'react';
 import useGoogleSheets from 'use-google-sheets';
+//teste
 
 function calcularMedia(p1, p2, p3) {
   const nota1 = parseFloat(p1);
